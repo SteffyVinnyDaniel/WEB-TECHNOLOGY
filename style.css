@@ -5,7 +5,7 @@ padding:0;
 }
 h2{
 color:#4CAF50;
-font family:Arial,sans-serif;
+font-family:Arial,sans-serif;	
 font-size:28px;
 border-bottom:2px solid #4CAF50;
 padding-bottom:5px;
@@ -25,18 +25,18 @@ border:1px dashed #ff9800;
 div#container{
 background-color:#e0f7fa;
 padding:20px;
-border:2px solid #00accl;
+border:2px solid #00acc1;
 }
 a[target="_blank"]{
 color:#e91e63;
 text-decoration:none;
 font-weight:bold;
 }
-a[target="_blank"]:hovers{
+a[target="_blank"]:hover{
 text-decoration:underline;
 }
 div p{
-color#616161;
+color:#616161;
 font-size:16px;
 }
 div>span{
@@ -50,7 +50,7 @@ height:1px;
 background-color:#4CAF50;
 margin:10px 0;
 }
-h3-p{
+h3~p{
 font-family:'Georgia',serif;
 color:#555;
 }
